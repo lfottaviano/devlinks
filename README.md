@@ -6,6 +6,7 @@ Mainly .NET, but scope can change.
     - [Knockout](#knockout)
     - [AngularJS](#angularjs)
   - [Misc](#misc)
+- [LINQ](#linq)
 - [Web servers](#web-servers)
   - [IIS](#iis)
 - [Performance](#performance)
@@ -35,6 +36,9 @@ Mainly .NET, but scope can change.
 ### Misc
 * [DNS js.org](http://dns.js.org/) - domains for github pages
 * [Stats js.org](http://stats.js.org/) - 10k most popular JavaScript projects on GitHub
+
+## LINQ
+* [linqpad](https://www.linqpad.net/) - Test any C#/F#/VB snippet or program, query databases in LINQ 
 
 
 ## Web servers
