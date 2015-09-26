@@ -14,14 +14,15 @@
 ### libs
 * [Knockout documentation](http://knockoutjs.com/documentation/introduction.html) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM)
 
-## Web servers
-### IIS
-* [HTTP status code](https://support.microsoft.com/en-us/kb/943891) -  in IIS 7.0, IIS 7.5, and IIS 8.0
- 
 #### AngularJS
 
 * [AngularJS API ref](https://docs.angularjs.org/api) - Api Reference. 
 * [AngularJS Expressions](http://teropa.info/images/angular_expressions_cheatsheet.pdf) - Cheatsheet for Expressions
+
+## Web servers
+### IIS
+* [HTTP status code](https://support.microsoft.com/en-us/kb/943891) -  in IIS 7.0, IIS 7.5, and IIS 8.0
+
 
 ## Performance
 ### Web
