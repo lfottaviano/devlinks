@@ -22,15 +22,16 @@ Mainly .NET, but scope can change.
 #### Knockout
 * [Knockout documentation](http://knockoutjs.com/documentation/introduction.html) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM)
 
-### Misc
-* [DNS js.org](http://dns.js.org/) - domains for github pages
-* [Stats js.org](http://stats.js.org/) - 10k most popular JavaScript projects on GitHub
-
 #### AngularJS
 
 * [AngularJS API ref](https://docs.angularjs.org/api) - Api Reference. 
 * [AngularJS Cheatsheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/) - with links to api reference.
 * [AngularJS Expressions](http://teropa.info/images/angular_expressions_cheatsheet.pdf) - Cheatsheet for Expressions
+
+### Misc
+* [DNS js.org](http://dns.js.org/) - domains for github pages
+* [Stats js.org](http://stats.js.org/) - 10k most popular JavaScript projects on GitHub
+
 
 ## Web servers
 ### IIS
