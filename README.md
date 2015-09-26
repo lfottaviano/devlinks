@@ -1,4 +1,4 @@
-# Development links
+# .NET Development links (mainly .NET, scope can change)
 
 - [js](#js)
   - [libs](#libs)
