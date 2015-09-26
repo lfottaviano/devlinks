@@ -34,4 +34,4 @@
 ## Learning platforms
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - Learn different technologies
 * [CodeAcademy](https://www.codecademy.com/) - Learn to code
-* 
+* [Learn X in Y minutes](http://learnxinyminutes.com) - Learn X in Y minutes 
