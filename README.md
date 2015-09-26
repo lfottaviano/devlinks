@@ -7,6 +7,7 @@
   - [IIS](#iis)
 - [Performance](#performance)
   - [Web](#web)
+  - [SQL](#sql)
 - [Security](#security)
 - [Learning platforms](#learning-platforms)
 
@@ -27,6 +28,9 @@
 ## Performance
 ### Web
 * [Yahoo Best practices](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
+### SQL
+* [SQL performance](http://sqlperformance.com/) - Improving SQL Server performance
+
 
 ## Security
 * [awesome-pentest repo](https://github.com/enaqx/awesome-pentest) - Big collection of pen test resources 
