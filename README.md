@@ -1,4 +1,5 @@
-# .NET Development links (mainly .NET, scope can change)
+# .NET Development links 
+Mainly .NET, but scope can change.
 
 - [js](#js)
   - [libs](#libs)
