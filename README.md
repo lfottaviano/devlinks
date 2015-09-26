@@ -11,6 +11,8 @@ Mainly .NET, but scope can change.
   - [Web](#web)
   - [SQL](#sql)
 - [Security](#security)
+  - [SQL Injection](#sql-injection)
+  - [XSS](#xss)
 - [Learning platforms](#learning-platforms)
 
 ## js
@@ -44,6 +46,15 @@ Mainly .NET, but scope can change.
 
 ## Security
 * [awesome-pentest repo](https://github.com/enaqx/awesome-pentest) - Big collection of pen test resources 
+* [.NET Security Cheatsheet](https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet) - By OWASP
+
+### SQL Injection
+* [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+
+### XSS
+* [xssposed](https://www.xssposed.org/) - List of sites vulnerable to XSS (Open bug bounty program)
+* [XSS Filter evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - 
+* [</xssed>](http://xssed.com/) - News and lists of vulnerabilities 
 
 ## Learning platforms
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - Learn different technologies
