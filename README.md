@@ -17,6 +17,9 @@ Mainly .NET, but scope can change.
 - [Learning platforms](#learning-platforms)
 
 ## js
+* [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network Javascript
+* [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Javascript reference itself
+
 ### libs
 
 #### Knockout
