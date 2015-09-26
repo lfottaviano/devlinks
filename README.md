@@ -53,6 +53,8 @@ Mainly .NET, but scope can change.
 
 ## Diagnostics and Debugging
 * [Glimpse](http://getglimpse.com/) -  diagnostics platform, very useful lets you see sql queries on EF, Identity Claims, all from the brownser.
+* [Fiddler](http://www.telerik.com/fiddler) - free web debugging proxy, let us examine/compose http requests & responses.
+* [Postman](http://www.getpostman.com/) - chrome extension for testing http requests (WebAPI / REST)
 
 ## Security
 * [awesome-pentest repo](https://github.com/enaqx/awesome-pentest) - Big collection of pen test resources 
