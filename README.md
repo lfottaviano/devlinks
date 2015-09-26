@@ -21,6 +21,7 @@ Mainly .NET, but scope can change.
 ## js
 * [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network Javascript
 * [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Javascript reference itself
+* [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - "Because JavaScript is notorious for being the world's most misunderstood programming language."
 
 ### libs
 
