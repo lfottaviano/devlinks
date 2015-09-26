@@ -11,6 +11,7 @@ Mainly .NET, but scope can change.
 - [Performance](#performance)
   - [Web](#web)
   - [SQL](#sql)
+- [Diagnostics and Debugging](#diagnostics-and-debugging)
 - [Security](#security)
   - [SQL Injection](#sql-injection)
   - [XSS](#xss)
@@ -50,6 +51,8 @@ Mainly .NET, but scope can change.
 ### SQL
 * [SQL performance](http://sqlperformance.com/) - Improving SQL Server performance
 
+## Diagnostics and Debugging
+* [Glimpse](http://getglimpse.com/) -  diagnostics platform, very useful lets you see sql queries on EF, Identity Claims, all from the brownser.
 
 ## Security
 * [awesome-pentest repo](https://github.com/enaqx/awesome-pentest) - Big collection of pen test resources 
