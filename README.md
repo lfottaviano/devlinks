@@ -54,7 +54,7 @@ Mainly .NET, but scope can change.
 ### XSS
 * [xssposed](https://www.xssposed.org/) - List of sites vulnerable to XSS (Open bug bounty program)
 * [XSS Filter evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - 
-* [</xssed>](http://xssed.com/) - News and lists of vulnerabilities 
+* [xssed](http://xssed.com/) - News and lists of vulnerabilities 
 
 ## Learning platforms
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - Learn different technologies
