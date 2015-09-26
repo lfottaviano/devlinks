@@ -2,9 +2,9 @@
 
 - [js](#js)
   - [libs](#libs)
-- [Performance](#Performance)
-  - [Web](#Web)
-- [Security](#Security)
+- [Performance](#performance)
+  - [Web](#web)
+- [Security](#security)
 
 ### js
 #### libs
