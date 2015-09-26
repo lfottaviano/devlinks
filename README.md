@@ -55,6 +55,8 @@ Mainly .NET, but scope can change.
 * [Glimpse](http://getglimpse.com/) -  diagnostics platform, very useful lets you see sql queries on EF, Identity Claims, all from the brownser.
 * [Fiddler](http://www.telerik.com/fiddler) - free web debugging proxy, let us examine/compose http requests & responses.
 * [Postman](http://www.getpostman.com/) - chrome extension for testing http requests (WebAPI / REST)
+* [StopWatch class](https://msdn.microsoft.com/en-us/library/system.diagnostics.stopwatch(v=vs.110).aspx) - msdn documentation, provides a set of methods and properties that you can use to accurately measure elapsed time.
+* [.NET System.Diagnostics](https://msdn.microsoft.com/en-us/library/system.diagnostics(v=vs.110).aspx) - Namespace
 
 ## Security
 * [awesome-pentest repo](https://github.com/enaqx/awesome-pentest) - Big collection of pen test resources 
