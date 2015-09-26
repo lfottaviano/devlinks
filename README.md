@@ -10,7 +10,9 @@
 ## js
 ### libs
 * [Knockout documentation](http://knockoutjs.com/documentation/introduction.html) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM)
+ 
 #### AngularJS
+
 * [AngularJS API ref](https://docs.angularjs.org/api) - Api Reference. 
 * [AngularJS Expressions](http://teropa.info/images/angular_expressions_cheatsheet.pdf) - Cheatsheet for Expressions
 
