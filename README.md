@@ -3,6 +3,7 @@ Mainly .NET, but scope can change.
 
 - [js](#js)
   - [libs](#libs)
+    - [Knockout](#knockout)
     - [AngularJS](#angularjs)
   - [Misc](#misc)
 - [Web servers](#web-servers)
@@ -17,6 +18,8 @@ Mainly .NET, but scope can change.
 
 ## js
 ### libs
+
+#### Knockout
 * [Knockout documentation](http://knockoutjs.com/documentation/introduction.html) - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM)
 
 ### Misc
