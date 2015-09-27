@@ -109,6 +109,7 @@ Mainly .NET, but scope can change.
 * [bitboot.camp](http://bitboot.camp/resources.html) - General resources, CS, Java, git, Linux, Sql, Python and more.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List of CS courses
 * [hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
+* [dotnetcurry](http://www.dotnetcurry.com/ShowCategories.aspx) - .NET tutorials & magazine
 
 
 
