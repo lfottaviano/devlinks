@@ -19,7 +19,7 @@ Mainly .NET, but scope can change.
   - [XSS](#xss)
   - [Bug bounty](#bug-bounty)
   - [Blogs](#blogs)
-- [Learning platforms](#learning-platforms)
+- [Learning and resources](#learning-and-resources)
 
 ## js
 * [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network Javascript
