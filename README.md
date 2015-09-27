@@ -102,5 +102,8 @@ Mainly .NET, but scope can change.
 * [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - google careers, provides tips and resources to help you develop your technical skills 
 * [bitboot.camp](http://bitboot.camp/resources.html) - General resources, CS, Java, git, Linux, Sql, Python and more.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List of CS courses
+* [hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
+
+
 
 by [lfottaviano](https://stacknet.wordpress.com/)
