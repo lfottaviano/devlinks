@@ -25,7 +25,13 @@ Mainly .NET, but scope can change.
 ## js
 * [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network Javascript
 * [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Javascript reference itself
+* [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - guide
+
 * [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - "Because JavaScript is notorious for being the world's most misunderstood programming language."
+* [Eloquent Javascript](http://eloquentjavascript.net/) - free ebook
+* [Javascript enlightenment](http://www.javascriptenlightenment.com/) - free ebook
+* [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - design patterns
+* [Javascript tutorial](http://javascript.info/) - tutorial
 
 ### libs
 
