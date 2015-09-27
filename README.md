@@ -59,6 +59,7 @@ Mainly .NET, but scope can change.
 ## Performance
 ### Web
 * [Yahoo Best practices](https://developer.yahoo.com/performance/rules.html) - Best Practices for Speeding Up Your Web Site
+*[Tips for fast loading html pages](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages) - mozilla developer network
 
 ### SQL
 * [SQL performance](http://sqlperformance.com/) - Improving SQL Server performance
