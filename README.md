@@ -18,6 +18,7 @@ Mainly .NET, but scope can change.
   - [SQL Injection](#sql-injection)
   - [XSS](#xss)
   - [Bug bounty](#bug-bounty)
+  - [SSL](#ssl)
   - [Blogs](#blogs)
 - [Learning and resources](#learning-and-resources)
 
@@ -87,6 +88,9 @@ Mainly .NET, but scope can change.
 ### Bug bounty
 * [hackerone](https://hackerone.com/python) - Bug bunty platform
 
+### SSL
+* [Let's encrypt](https://letsencrypt.org/) - is a free, automated, and open certificate authority (CA), run for the public’s benefit. 
+
 ### Blogs
 * [sucuri](https://blog.sucuri.net/) 
 
@@ -96,5 +100,6 @@ Mainly .NET, but scope can change.
 * [Learn X in Y minutes](http://learnxinyminutes.com) - Learn X in Y minutes 
 * [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - google careers, provides tips and resources to help you develop your technical skills 
 * [bitboot.camp](http://bitboot.camp/resources.html) - General resources, CS, Java, git, Linux, Sql, Python and more.
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List of CS courses
 
 by [lfottaviano](https://stacknet.wordpress.com/)
