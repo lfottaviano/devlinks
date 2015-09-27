@@ -34,6 +34,7 @@ Mainly .NET, but scope can change.
 
 * [AngularJS API ref](https://docs.angularjs.org/api) - Api Reference. 
 * [AngularJS Cheatsheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/) - with links to api reference.
+* [AngularJS Cheatsheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf) - by dncmagazine
 * [AngularJS Expressions](http://teropa.info/images/angular_expressions_cheatsheet.pdf) - Cheatsheet for Expressions
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - style guide
 * [Angular Style Guide](https://github.com/mgechev/angularjs-style-guide) - another style guide
