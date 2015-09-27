@@ -14,6 +14,7 @@ Mainly .NET, but scope can change.
   - [SQL](#sql)
 - [Diagnostics and Debugging](#diagnostics-and-debugging)
 - [Security](#security)
+  - [DDoS](#ddos)
   - [SQL Injection](#sql-injection)
   - [XSS](#xss)
 - [Learning platforms](#learning-platforms)
@@ -68,6 +69,9 @@ Mainly .NET, but scope can change.
 ## Security
 * [awesome-pentest repo](https://github.com/enaqx/awesome-pentest) - Big collection of pen test resources 
 * [.NET Security Cheatsheet](https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet) - By OWASP
+
+### DDoS
+* [Javascript based DDoS](https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/) - Cloudfare introduction.
 
 ### SQL Injection
 * [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
