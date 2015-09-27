@@ -17,6 +17,7 @@ Mainly .NET, but scope can change.
   - [DDoS](#ddos)
   - [SQL Injection](#sql-injection)
   - [XSS](#xss)
+  - [Bug bounty](#bug-bounty)
 - [Learning platforms](#learning-platforms)
 
 ## js
@@ -81,10 +82,13 @@ Mainly .NET, but scope can change.
 * [XSS Filter evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - 
 * [xssed](http://xssed.com/) - News and lists of vulnerabilities 
 
+### Bug bounty
+* [hackerone](https://hackerone.com/python) - Bug bunty platform
+
 ## Learning platforms
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - Learn different technologies
 * [CodeAcademy](https://www.codecademy.com/) - Learn to code
 * [Learn X in Y minutes](http://learnxinyminutes.com) - Learn X in Y minutes 
-
+* [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - google careers, provides tips and resources to help you develop your technical skills 
 
 by [lfottaviano](https://stacknet.wordpress.com/)
