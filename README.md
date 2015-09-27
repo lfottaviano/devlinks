@@ -18,6 +18,7 @@ Mainly .NET, but scope can change.
   - [SQL Injection](#sql-injection)
   - [XSS](#xss)
   - [Bug bounty](#bug-bounty)
+  - [Blogs](#blogs)
 - [Learning platforms](#learning-platforms)
 
 ## js
@@ -86,10 +87,14 @@ Mainly .NET, but scope can change.
 ### Bug bounty
 * [hackerone](https://hackerone.com/python) - Bug bunty platform
 
-## Learning platforms
+### Blogs
+* [sucuri](https://blog.sucuri.net/) 
+
+## Learning and resources
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/) - Learn different technologies
 * [CodeAcademy](https://www.codecademy.com/) - Learn to code
 * [Learn X in Y minutes](http://learnxinyminutes.com) - Learn X in Y minutes 
 * [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) - google careers, provides tips and resources to help you develop your technical skills 
+* [bitboot.camp](http://bitboot.camp/resources.html) - General resources, CS, Java, git, Linux, Sql, Python and more.
 
 by [lfottaviano](https://stacknet.wordpress.com/)
