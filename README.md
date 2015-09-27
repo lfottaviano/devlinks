@@ -46,6 +46,7 @@ Mainly .NET, but scope can change.
 * [AngularJS Expressions](http://teropa.info/images/angular_expressions_cheatsheet.pdf) - Cheatsheet for Expressions
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - style guide
 * [Angular Style Guide](https://github.com/mgechev/angularjs-style-guide) - another style guide
+* [Angular pinboard](https://pinboard.in/u:bitchwhocodes/t:angular/) - by thebitchwhocodes
 
 ### Misc
 * [DNS js.org](http://dns.js.org/) - domains for github pages
@@ -112,5 +113,5 @@ Mainly .NET, but scope can change.
 * [dotnetcurry](http://www.dotnetcurry.com/ShowCategories.aspx) - .NET tutorials & magazine
 
 
-
-by [lfottaviano](https://stacknet.wordpress.com/)
+Thanks so much everyone,
+[lfottaviano](https://stacknet.wordpress.com/)
