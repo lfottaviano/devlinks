@@ -7,6 +7,8 @@ Mainly .NET, but scope can change.
     - [AngularJS](#angularjs)
   - [Misc](#misc)
 - [LINQ](#linq)
+- [WCF](#wcf)
+- [WebApi](#webapi)
 - [Web servers](#web-servers)
   - [IIS](#iis)
 - [Performance](#performance)
@@ -55,6 +57,11 @@ Mainly .NET, but scope can change.
 ## LINQ
 * [linqpad](https://www.linqpad.net/) - Test any C#/F#/VB snippet or program, query databases in LINQ 
 
+## WCF
+* [WCF .NET 3.5 MS](https://msdn.microsoft.com/en-us/library/ms735119.aspx) -
+
+## WebApi
+* [Learn About ASP.NET Web API](http://www.asp.net/web-api) - official site
 
 ## Web servers
 ### IIS
