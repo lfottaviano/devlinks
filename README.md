@@ -63,6 +63,7 @@ Mainly .NET, but scope can change.
 * [IIS Config Reference](http://www.iis.net/configreference) - Get IIS 7 & IIS 7.5  Reference Guides
 * [Introduction to IIS Architecture](http://www.iis.net/learn/get-started/introduction-to-iis/introduction-to-iis-architecture) - IIS arch introduction
 * [IIS 8.5 Idle worker process page-out](http://www.iis.net/learn/get-started/whats-new-in-iis-85/idle-worker-process-page-out-in-iis85) - Process worker: Idle time-out action , terminate or suspend. Suspend makes it faster. 
+* [Getting Started with AppCmd.exe](http://www.iis.net/learn/get-started/getting-started-with-iis/getting-started-with-appcmdexe) - Single command line tool for managing IIS 7 and above
 
 ## Performance
 ### Web
