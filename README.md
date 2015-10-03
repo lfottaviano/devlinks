@@ -61,7 +61,7 @@ Mainly .NET, but scope can change.
 * [HTTP status code](https://support.microsoft.com/en-us/kb/943891) -  in IIS 7.0, IIS 7.5, and IIS 8.0
 * [IIS.net Learn](http://www.iis.net/learn) - Learn IIS.net
 * [IIS Config Reference](http://www.iis.net/configreference) - Get IIS 7 & IIS 7.5  Reference Guides
-
+* [Introduction to IIS Architecture](http://www.iis.net/learn/get-started/introduction-to-iis/introduction-to-iis-architecture) - IIS arch introduction
 
 ## Performance
 ### Web
