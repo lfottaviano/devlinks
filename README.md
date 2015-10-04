@@ -131,6 +131,11 @@ Mainly .NET, but scope can change.
 * [Channel9 MSDN](https://channel9.msdn.com/) - 
 * [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html) - Martin Fowler
 * [DI - Ninject](http://www.ninject.org/) - Open source dependency injector for .NET 
+* [blackwasp tutorials](http://www.blackwasp.co.uk/Tutorials.aspx) -
+* [C# corner](http://www.c-sharpcorner.com/) -
+* [C# station](http://www.csharp-station.com/) -
+* [Techotopia](http://www.techotopia.com/) -
+* [JustDecompile](http://www.telerik.com/products/decompiler.aspx) - Telerik decompilation engine
 
 ### Magazines
 * [dotnetcurry](http://www.dotnetcurry.com/ShowCategories.aspx) - .NET tutorials & magazine
