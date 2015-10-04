@@ -101,6 +101,8 @@ Mainly .NET, but scope can change.
 * [xssposed](https://www.xssposed.org/) - List of sites vulnerable to XSS (Open bug bounty program)
 * [XSS Filter evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet) - 
 * [xssed](http://xssed.com/) - News and lists of vulnerabilities 
+* [XSS Prevension Cheatsheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet) - OWASP
+* [DOM based XSS Prevention Cheat Sheet](https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet) - OWASP
 
 ### Bug bounty
 * [hackerone](https://hackerone.com/python) - Bug bunty platform
