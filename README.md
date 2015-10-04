@@ -123,12 +123,20 @@ Mainly .NET, but scope can change.
 * [bitboot.camp](http://bitboot.camp/resources.html) - General resources, CS, Java, git, Linux, Sql, Python and more.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List of CS courses
 * [hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
+* [Software Architecture Resources](https://msdn.microsoft.com/architects-overview-msdn) - From Microsoft
+* [Bizpark](https://www.microsoft.com/bizspark) - Support for your startup
+* [Dreamspark](https://www.dreamspark.com/) - for students
+* [Microsoft API and reference catalog](https://msdn.microsoft.com/en-us/library/default.aspx) - Library reference
+* [Technet](https://technet.microsoft.com/en-us/default.aspx) -
+* [Channel9 MSDN](https://channel9.msdn.com/) - 
+* [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html) - Martin Fowler
+* [DI - Ninject](http://www.ninject.org/) - Open source dependency injector for .NET 
 
 ### Magazines
 * [dotnetcurry](http://www.dotnetcurry.com/ShowCategories.aspx) - .NET tutorials & magazine
 * [VisualStudio Magazine](https://visualstudiomagazine.com/Home.aspx) - .NET, C#, ASP.NET, etc
 * [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/default.aspx) 
-* []
+
 
 ### Books
 * [Free ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx)
