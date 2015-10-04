@@ -23,6 +23,8 @@ Mainly .NET, but scope can change.
   - [SSL](#ssl)
   - [Blogs](#blogs)
 - [Learning and resources](#learning-and-resources)
+  - [Magazines](#magazines)
+  - [Books](#books)
 
 ## js
 * [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network Javascript
@@ -121,7 +123,15 @@ Mainly .NET, but scope can change.
 * [bitboot.camp](http://bitboot.camp/resources.html) - General resources, CS, Java, git, Linux, Sql, Python and more.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List of CS courses
 * [hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
+
+### Magazines
 * [dotnetcurry](http://www.dotnetcurry.com/ShowCategories.aspx) - .NET tutorials & magazine
+* [VisualStudio Magazine](https://visualstudiomagazine.com/Home.aspx) - .NET, C#, ASP.NET, etc
+* [MSDN Magazine](https://msdn.microsoft.com/en-us/magazine/default.aspx) 
+* []
+
+### Books
+* [Free ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx)
 
 
 Thanks so much everyone,
