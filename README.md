@@ -136,6 +136,7 @@ Mainly .NET, but scope can change.
 * [C# station](http://www.csharp-station.com/) -
 * [Techotopia](http://www.techotopia.com/) -
 * [JustDecompile](http://www.telerik.com/products/decompiler.aspx) - Telerik decompilation engine
+* [CS & Engineering](https://github.com/open-source-society/computer-science-and-engineering) - Open Source Society University
 
 ### Magazines
 * [dotnetcurry](http://www.dotnetcurry.com/ShowCategories.aspx) - .NET tutorials & magazine
