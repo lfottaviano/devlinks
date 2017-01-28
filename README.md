@@ -30,6 +30,8 @@ Mainly .NET, but scope can change.
   - [Magazines](#magazines)
   - [Books](#books)
 
+# Content
+
 ## js
 * [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network Javascript
 * [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Javascript reference itself
