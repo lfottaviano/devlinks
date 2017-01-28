@@ -73,6 +73,8 @@ Mainly .NET, but scope can change.
 ### MongoDB
 * [MongoDB cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
 * [Robomongo](https://robomongo.org/) - Mongo querying & management tool
+* [MongoDB C# cheatsheet](http://www.layerworks.com/blog/2014/11/11/mongodb-shell-csharp-driver-comparison-cheat-cheet)
+* [Linqpad + MongoDB C# driver](http://www.rkconsulting.com/blog/mongodb-with-linqpad)
 
 ## WCF
 * [WCF .NET 3.5 MS](https://msdn.microsoft.com/en-us/library/ms735119.aspx) -
