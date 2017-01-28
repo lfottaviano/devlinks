@@ -66,6 +66,7 @@ Mainly .NET, but scope can change.
 ### DocumentDB
 * [DocumentDB](https://azure.microsoft.com/en-us/documentation/learning-paths/documentdb/) - ms learning path
 * [DocumentDB SQL cheatsheet](https://azure.microsoft.com/en-us/documentation/articles/documentdb-sql-query-cheat-sheet/) - sql query cheatsheet
+
 ### MongoDB
 * [MongoDB cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
 
