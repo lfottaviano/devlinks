@@ -8,6 +8,7 @@ Mainly .NET, but scope can change.
   - [Misc](#misc)
 - [LINQ](#linq)
 - [NoSQL](#nosql)
+  -[DocumentDB](#documentdb)
   -[MongoDB](#mongodb)
 - [WCF](#wcf)
 - [WebApi](#webapi)
@@ -62,6 +63,7 @@ Mainly .NET, but scope can change.
 * [linqpad](https://www.linqpad.net/) - Test any C#/F#/VB snippet or program, query databases in LINQ 
 
 ## NoSQL
+### DocumentDB
 * [DocumentDB](https://azure.microsoft.com/en-us/documentation/learning-paths/documentdb/) - ms learning path
 * [DocumentDB SQL cheatsheet](https://azure.microsoft.com/en-us/documentation/articles/documentdb-sql-query-cheat-sheet/) - sql query cheatsheet
 ### MongoDB
