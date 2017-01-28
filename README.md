@@ -8,8 +8,8 @@ Mainly .NET, but scope can change.
   - [Misc](#misc)
 - [LINQ](#linq)
 - [NoSQL](#nosql)
-  -[DocumentDB](#documentdb)
-  -[MongoDB](#mongodb)
+  - [DocumentDB](#documentdb)
+  - [MongoDB](#mongodb)
 - [WCF](#wcf)
 - [WebApi](#webapi)
 - [Web servers](#web-servers)
@@ -69,6 +69,7 @@ Mainly .NET, but scope can change.
 
 ### MongoDB
 * [MongoDB cheatsheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
+* [Robomongo](https://robomongo.org/) - Mongo querying & management tool
 
 ## WCF
 * [WCF .NET 3.5 MS](https://msdn.microsoft.com/en-us/library/ms735119.aspx) -
