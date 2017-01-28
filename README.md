@@ -141,6 +141,7 @@ Mainly .NET, but scope can change.
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) - List of CS courses
 * [hackr.io](http://hackr.io/) - Share and discover the best programming tutorials and courses online.
 * [Software Architecture Resources](https://msdn.microsoft.com/architects-overview-msdn) - From Microsoft
+* [Software Architecture Resources](https://msdn.microsoft.com/en-us/library/ms978007.aspx) - From Microsoft
 * [Bizpark](https://www.microsoft.com/bizspark) - Support for your startup
 * [Dreamspark](https://www.dreamspark.com/) - for students
 * [Microsoft API and reference catalog](https://msdn.microsoft.com/en-us/library/default.aspx) - Library reference
