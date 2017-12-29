@@ -166,4 +166,4 @@ Mainly .NET, but scope can change.
 * [Free ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx)
 
 
-[lfottaviano](https://stacknet.wordpress.com/)
+[lfottaviano]
