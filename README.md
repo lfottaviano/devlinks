@@ -1,4 +1,4 @@
-# .NET Development links 
+# Software Development links 
 Mainly .NET, but scope can change.
 
 ## Index
@@ -29,6 +29,7 @@ Mainly .NET, but scope can change.
 - [Learning and resources](#learning-and-resources)
   - [Magazines](#magazines)
   - [Books](#books)
+  - [Agile Books](#agile-books)
 
 # Content
 
@@ -165,5 +166,25 @@ Mainly .NET, but scope can change.
 ### Books
 * [Free ebooks](http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx)
 
+### Agile Books
+* Scrum: A Pocket Guide by Gunther Verheyen
+* Software in 30 days by Ken Schwaber
+* Scrum Insights for Practitioners: The Scrum Guide Companion by Hiren Doshi
+* Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink
+* Adapt by Tim Harford
+* Team of Teams by Stanley McChrystal
+* Servant Leadership by Robert K. Greenleaf
+* Scrum Mastery by Geoff Watts
+* Coaching Agile Teams by Lyssa Adkins
+* The Surprising Power of Liberating Structures by Henri Lipmanowizc and Keith McCandless
+* The Professional Product Owner by Don McGreal and Ralph Jocham
+* The Product Samurai by Chris Lukassen
+* Product Mastery by Geoff Watts
+* Lean Change Management by Jason Little
+* Reinventing Organizations by Frederic Laloux
+* The Nexus Framework for Scaling Scrum by Kurt Bittner, Patricia Kong and Dave West
+* Creating Great Teams by Sandy Mamoli and David Mole
+* The Serving Leader: Five Powerful Actions to Transform Your Team, Business, and Community by Ken Jennings and John Stahl-Wert
+* Turn the Ship Around!: A True Story of Turning Followers into Leaders by L. David Marquet
 
 lfottaviano
