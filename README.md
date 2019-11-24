@@ -1,5 +1,5 @@
 # Software Development links 
-Mainly .NET, but scope can change.
+
 
 ## Index
 - [js](#js)
